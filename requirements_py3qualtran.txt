@@ -1,0 +1,4 @@
+jupyterlab >= 4.0
+tqdm >= 4.66.1
+qualtran
+opt_einsum
